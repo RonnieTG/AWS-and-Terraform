@@ -3,6 +3,6 @@
 
 #aws_secret_key = "%USERPROFILE%\\.aws\\credentials"
 
-key_name = "Ronnie-OpsSchool"
+key_name = "xxxxx"
 
 environment_tag = "TF-1st-HW"
